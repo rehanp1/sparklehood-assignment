@@ -1,3 +1,12 @@
+# Sparklehood Assignment: TypeScript-Based Project
+
+To build the project, you can typically follow these steps for a Vite-based project:
+
+1. Install dependencies: Run **"npm install"** in the project directory to install all required dependencies.
+   
+2. Run the project: Use the command **"npm run dev"** to create a development-ready build of the project.
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
